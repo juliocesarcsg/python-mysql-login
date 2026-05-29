@@ -8,7 +8,7 @@ conexao = mysql.connector.connect(
     host='localhost',
     database='db_jogo',
     user='root',
-    password='tinCTrom'
+    password='your_password'
 )
 
 # =====================================
