@@ -1,6 +1,6 @@
 DROP DATABASE IF EXISTS db_jogo;
 CREATE DATABASE db_jogo;
-USE db_jogo;
+USE db_jogo; 
 
 -- 1. cursos
 CREATE TABLE cursos (
